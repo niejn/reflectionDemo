@@ -17,7 +17,7 @@ namespace WindowsFormsRegister
         #region ========加密========
 
         /// <summary>
-        /// 加密
+        /// 加密xiugai
         /// </summary>
         /// <param name="Text"></param>
         /// <returns></returns>
