@@ -1,0 +1,11 @@
+E:\Study\NetDemo\Reflection\RBOReflection\WinDemo\bin\Debug\WinDemo.exe
+E:\Study\NetDemo\Reflection\RBOReflection\WinDemo\bin\Debug\WinDemo.pdb
+E:\Study\NetDemo\Reflection\RBOReflection\WinDemo\bin\Debug\RBO.Util.dll
+E:\Study\NetDemo\Reflection\RBOReflection\WinDemo\bin\Debug\RBO.Util.pdb
+E:\Study\NetDemo\Reflection\RBOReflection\WinDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Study\NetDemo\Reflection\RBOReflection\WinDemo\obj\x86\Debug\WinDemo.Form1.resources
+E:\Study\NetDemo\Reflection\RBOReflection\WinDemo\obj\x86\Debug\WinDemo.Properties.Resources.resources
+E:\Study\NetDemo\Reflection\RBOReflection\WinDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Study\NetDemo\Reflection\RBOReflection\WinDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Study\NetDemo\Reflection\RBOReflection\WinDemo\obj\x86\Debug\WinDemo.exe
+E:\Study\NetDemo\Reflection\RBOReflection\WinDemo\obj\x86\Debug\WinDemo.pdb
