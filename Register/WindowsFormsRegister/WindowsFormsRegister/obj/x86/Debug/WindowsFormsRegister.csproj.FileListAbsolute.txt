@@ -1,9 +1,0 @@
-E:\Study\NetDemo\Register\WindowsFormsRegister\WindowsFormsRegister\obj\x86\Debug\ResolveAssemblyReference.cache
-E:\Study\NetDemo\Register\WindowsFormsRegister\WindowsFormsRegister\obj\x86\Debug\WindowsFormsRegister.Properties.Resources.resources
-E:\Study\NetDemo\Register\WindowsFormsRegister\WindowsFormsRegister\obj\x86\Debug\GenerateResource.read.1.tlog
-E:\Study\NetDemo\Register\WindowsFormsRegister\WindowsFormsRegister\obj\x86\Debug\GenerateResource.write.1.tlog
-E:\Study\NetDemo\Register\WindowsFormsRegister\WindowsFormsRegister\bin\Debug\WindowsFormsRegister.exe
-E:\Study\NetDemo\Register\WindowsFormsRegister\WindowsFormsRegister\bin\Debug\WindowsFormsRegister.pdb
-E:\Study\NetDemo\Register\WindowsFormsRegister\WindowsFormsRegister\obj\x86\Debug\WindowsFormsRegister.exe
-E:\Study\NetDemo\Register\WindowsFormsRegister\WindowsFormsRegister\obj\x86\Debug\WindowsFormsRegister.pdb
-E:\Study\NetDemo\Register\WindowsFormsRegister\WindowsFormsRegister\obj\x86\Debug\WindowsFormsRegister.Form1.resources
