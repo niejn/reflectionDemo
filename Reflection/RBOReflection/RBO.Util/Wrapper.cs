@@ -12,6 +12,7 @@ namespace RBO.Util
     {
     }
 
+    // zhushi
     public interface ISetValue
     {
         void Set(object target, object val);
