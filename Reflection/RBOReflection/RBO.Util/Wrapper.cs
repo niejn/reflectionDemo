@@ -12,6 +12,11 @@ namespace RBO.Util
     {
     }
 
+    public interface ISetValue
+    {
+        void Set(object target, object val);
+    }
+
     public class SetterWrapper<TTarget, TValue>
     {
         private Action<TTarget, TValue> _setter;
